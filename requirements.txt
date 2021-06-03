@@ -1,0 +1,4 @@
+python~=3.9.5
+
+# pip install Pillow
+pillow~=8.2.0
